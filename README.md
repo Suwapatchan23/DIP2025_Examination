@@ -1,4 +1,4 @@
-#This repository for examination of class Image Processing
+# This repository for examination of class Image Processing
 ---
 ## Datasets
 - Rice seeds dataset from https://www.kaggle.com/datasets/mutahirmustafa/rice-seeds-image-dataset
